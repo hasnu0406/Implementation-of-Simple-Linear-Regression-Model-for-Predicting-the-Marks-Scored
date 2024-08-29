@@ -61,28 +61,36 @@ print("RMSE =",rmse)
 ```
 
 ## Output:
-HEAD:
+# HEAD:
+
 ![image](https://github.com/user-attachments/assets/e2c14fcb-2a48-4afc-80dc-e0be0ada95a1)
 
-TAIL:
+# TAIL:
+
 ![image](https://github.com/user-attachments/assets/735a0216-9fae-4bf7-af8a-efee4d702bb8)
 
-Array Value of X:
+# Array Value of X:
+
 ![image](https://github.com/user-attachments/assets/ec713756-9555-4cae-a9ac-acc829ad6543)
 
-Array Value of Y:
+# Array Value of Y:
+
 ![image](https://github.com/user-attachments/assets/68c03a60-8b6b-4900-9d8b-4c2b046c0c90)
 
-Y Prediction:
+# Y Prediction:
+
 ![image](https://github.com/user-attachments/assets/a664c65c-0ce9-4517-9628-74eb94ee0eb0)
 
-Array Value of Y Test:
+# Array Value of Y Test:
+
 ![image](https://github.com/user-attachments/assets/22b23da7-5a7b-43f7-bbd3-a8de85bb1bf5)
 
-Graph of Training Set:
+# Graph of Training Set:
+
 ![image](https://github.com/user-attachments/assets/5801173e-f309-46a0-9b4e-2f671340ba26)
 
-Graph of Testing Set:
+# Graph of Testing Set:
+
 ![image](https://github.com/user-attachments/assets/b06d93d4-c5ab-4ac7-b2d2-dc21418c5e69)
 
 
