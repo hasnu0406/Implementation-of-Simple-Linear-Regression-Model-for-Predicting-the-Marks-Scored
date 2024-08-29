@@ -87,7 +87,7 @@ Array Value of Y Test:
 
 Graph of Training Set:
 
-![image](https://github.com/user-attachments/assets/5801173e-f309-46a0-9b4e-2f671340ba26)
+![image](https://github.com/user-attachments/assets/5e567898-263f-4f67-bcb2-8b7e37888b41)
 
 Graph of Testing Set:
 
